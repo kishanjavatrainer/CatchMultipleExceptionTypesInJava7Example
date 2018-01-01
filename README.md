@@ -1,0 +1,1 @@
+# CatchMultipleExceptionTypesInJava7Example
